@@ -1,6 +1,22 @@
-.idea
-.DS_Store
-__pycache__
+# Virtual environment
+.venv/
+env/
+venv/
 
-# weights folder
-weights
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit session state & logs
+.streamlit/
+
+# OS junk files
+.DS_Store
+.idea/
+.vscode/
+
+# Project-specific
+pic_bed/
+weights/
