@@ -14,7 +14,7 @@ It allows you to upload images/videos or use your webcam for instant detections 
 
 👉 *Replace with your own screenshots/GIFs*  
 
-![App Screenshot](![Uploading image.png…]()
+![App Screenshot]Screenshot 2025-09-16 201405
 )  
 *Example: Webcam detection running with YOLOv8*  
 
